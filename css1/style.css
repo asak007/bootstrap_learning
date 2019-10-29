@@ -1,0 +1,25 @@
+.backg {
+    background-image: url(../images/download.jpg),linear-gradient(90deg, rgba(26, 26, 26, 0.73) 21%, 
+            rgba(26, 26,26, 0.76) 79%);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    color: white;
+    
+}
+.zayyad{
+    width: inherit;
+    height: 460px;
+        
+}
+.button1{
+    margin: 25px auto 25px auto;
+    width: 250px;
+    
+}
+.marg-b{
+    margin-bottom: 25px;
+}
+.containerbg{
+    background-color: blueviolet;
+}
